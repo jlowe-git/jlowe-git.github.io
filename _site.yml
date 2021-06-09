@@ -1,0 +1,21 @@
+name: "j-lowe-git"
+output_dir: "."
+navbar:
+  title: "Jeremy Lowe"
+  left:
+    - text: "Home 🏡"
+      href: index.html
+    - text: "Research 🐙"
+      href: about.html
+    - text: "Poetry ✏️"
+      href: poetry.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<jeremylowe1998@gmail.com>
+    - icon: 
+      href: http://github.com/jlowe-git/
+output:
+  html_document:
+    theme: readable
+    include:
+      after_body: footer.html

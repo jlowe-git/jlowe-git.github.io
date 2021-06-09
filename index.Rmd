@@ -1,0 +1,54 @@
+---
+title: ""
+---
+
+```{css, echo=FALSE}
+.code-style {
+  background-color: snow;
+  border: 1px solid black;
+  font-weight: bold
+}
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+knitr::opts_chunk$set(class.source = "code-style")
+
+
+```
+
+
+  &nbsp;
+  &nbsp;
+  &nbsp;
+
+
+<center>
+
+### Hi there! ☀️
+
+  &nbsp;
+
+### I'm Jeremy Lowe.
+
+
+  &nbsp;
+
+
+![](C:/Users/jerem/Documents/jlowe-site/jlowe-git.github.io/files/IMG_7585.jpg){width=50%}
+
+
+</center>
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+
+
