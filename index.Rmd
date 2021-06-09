@@ -1,0 +1,69 @@
+---
+title: ""
+---
+
+```{css, echo=FALSE}
+.code-style {
+  background-color: snow;
+  border: 1px solid black;
+  font-weight: bold
+}
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+knitr::opts_chunk$set(class.source = "code-style")
+
+
+```
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+
+  &nbsp;
+  &nbsp;
+
+
+<center>
+
+## Hi there!️
+
+  &nbsp;
+
+## I'm Jeremy Lowe.
+
+  &nbsp;
+
+## ☀️☁️🐝🌻🎉🚴🚲🏃🌄✨🍌
+
+  &nbsp;
+
+
+![](C:/Users/jerem/Documents/jlowe-site/jlowe-git.github.io/files/IMG_7585.jpg){width=50%}
+  &nbsp;
+  &nbsp;
+  
+</center>
+
+
+##### I'm a soon-to-be (first-generation) graduate of NC State University with a B.S. in environmental engineering. It is my hope to use my education in service of others, and my intersecting passions for the environment and service has led me to the field of global water, sanitation, and hygiene (WASH). 
+
+##### My research in WASH focuses on understanding transmission pathways of pathogens through the environment, human exposure to these pathogens and subsequent health outcomes, and developing/evaluating strategies to limit exposure to pathogens and improve overall health.
+
+##### Aside from research, I love exploring all life has to offer (usually by running, cycling, or backpacking), fiddling with R, writing poetry, and eating pasta.
+
+
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+
+

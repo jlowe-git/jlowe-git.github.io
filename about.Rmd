@@ -1,0 +1,39 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+  &nbsp;
+  &nbsp;
+
+# Water, Sanitation, and Hygiene
+
+<p style="color:white;">nanos gigantium humeris insidentes</p>
+  
+
+## Publications
+  
+S. Daly, **J. Lowe**, G. Hornsby, and A. Harris, “Multiple water source use in low-and middle-income countries: a systematic review,” 2021, doi: 10.2166/wh.2021.205.
+
+*And a lifetime to come...*
+
+  &nbsp;
+  
+## Presentations
+  
+**J. Lowe**, A. Ercumen, C. Prottas, and A. Harris, “Exploring the Determinants and Indicators of Poultry Feces Management Behaviors in Rural Western Uganda,” poster presented at UNC Water and Health Conference, 2020.  
+
+*And a lifetime to come...*
+
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+
