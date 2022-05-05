@@ -1,0 +1,44 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+  &nbsp;
+  &nbsp;
+
+# Global Water, Sanitation, and Hygiene
+
+<p style="color:white;">nanos gigantium humeris insidentes</p>
+  
+
+## Publications
+  
+**J. Lowe**, A. Ercumen, C. Prottas, and A. R. Harris, “Exploring the determinants and indicators of poultry feces management behaviors in rural Western Uganda,” Sci. Total Environ., vol. 834, p. 155202, Aug. 2022, doi: 10.1016/J.SCITOTENV.2022.155202.
+
+  &nbsp;
+
+S. Daly, **J. Lowe**, G. Hornsby, and A. Harris, “Multiple water source use in low-and middle-income countries: a systematic review,” 2021, doi: 10.2166/wh.2021.205.
+
+  &nbsp;
+  
+## Presentations
+
+**J. Lowe**, A. Ercumen, C. Prottas, and A. Harris, “Investigating Poultry Feces Risk Perceptions and Management Self-Efficacy in Rural Uganda,” verbal presentation at UNC Water and Health Conference, 2021.
+  
+  &nbsp;
+  
+**J. Lowe**, A. Ercumen, C. Prottas, and A. Harris, “Exploring the Determinants and Indicators of Poultry Feces Management Behaviors in Rural Western Uganda,” poster presented at UNC Water and Health Conference, 2020.
+
+
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+  
+  &nbsp;
+

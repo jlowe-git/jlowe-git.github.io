@@ -1,0 +1,28 @@
+name: "j-lowe-git"
+output_dir: "."
+navbar:
+  title: "Jeremy Lowe"
+  left:
+    - text: "Research 🐙"
+      href: about.html
+    - text: "Leadership 🌱"
+      href: leadership.html
+    - text: "Poetry ☁️"
+      href: poetry.html
+  right: 
+    - icon: fa-envelope
+      href: mailto:<jeremylowe1998@gmail.com>
+    - icon: fa-code
+      href: http://github.com/jlowe-git/
+    - icon: fa-at
+      href: https://twitter.com/J_Loweee
+    - icon: ai-cv
+      href: ./files/CV_JeremyLowe_June2021.pdf
+
+      
+output:
+  html_document:
+    theme: readable
+    css: 'styles.css'
+    include:
+      after_body: footer.html
